@@ -1,0 +1,16 @@
+// Fonts
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,600");
+// Variables
+@import "variables";
+// Bootstrap
+@import "~bootstrap-sass/assets/stylesheets/bootstrap";
+.bs-callout{
+  padding: 15px;
+}
+.bs-callout h4{
+  margin-top: 0;
+  margin-bottom: 5px;
+}
+.bs-callout-dangeer h4{
+  color: #CE4844;
+}
